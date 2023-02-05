@@ -9,4 +9,4 @@ Soal 2
 
 2. Program ini menunjukkan bagaimana menghitung jumlah total produk dengan kode produk "FBR00040101". Terdapat objek productBin yang menyimpan informasi tentang produk yang disimpan di berbagai "storageId". Setiap produk dipresentasikan sebagai objek dalam array data dari productBin, yang mengandung data seperti "id","storageId","code"" "productId","productName","productCode"."quantity","createdTime". Untuk menghitung jumlah total quantity dari berbagai produk , program mennggunakan konstanta bernama productCode dengan nilai dari produk "FBR00040101". Kemudian,akan dilakukan loop dengan iterasi melalui array data dari productBin dan membandingkan data dari setiap produk. Jika cocok, jumlah produk ditambahkan ke variabel TotalQuantity. Setelah loop atau pengulangan selesai, dan nilai akhir dari TotalQuantity ditemukan, dan akan menunjukkan jumlah total produk FBR00040101.
 
-Record Visual code: https://drive.google.com/file/d/1X_xcBgxM2u1pGjtlWy1FzbGJdwyDEbnP/view?usp=drivesdk
+Record VS Code: https://drive.google.com/file/d/1X_xcBgxM2u1pGjtlWy1FzbGJdwyDEbnP/view?usp=drivesdk

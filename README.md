@@ -2,6 +2,7 @@
 Tugas pekanan 3-Naufal Zainul Muttaqin
 
 Soal 1
+
 1. Program ini adalah suatu program yang meminta input dari pengguna dan menghitung akar pangkat 2 dari bilangan tersebut. Fungsi "sqrt" dalam program ini adalah untuk memvalidasi input dan hanya akan melakukan perhitungan akar pangkat 2 jika inputnya adalah bilangan genap dan positif. Jika input salah atau selain bilangan genap dan positif yang dalam hal ini adalah bilangan ganji dan negatif, maka fungsi akan menghasilkan error. Program akan mencoba untuk mengeksekusi fungsi "sqrt" dan akan menampilkan hasil perhitungan jika input benar, atau pesan error jika input salah.
 
 Soal 2

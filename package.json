@@ -1,0 +1,29 @@
+{
+  "name": "tugas-pekanan-3-naufal-zainul-m",
+  "version": "1.0.0",
+  "description": "Tugas Pekanan 3-Naufal Zainul Muttaqin",
+  "main": "soal1.js",
+  "dependencies": {
+    "ansi-regex": "^4.1.1",
+    "prompt-sync": "^4.2.0",
+    "strip-ansi": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node soal1.js",
+    "test2": "node soal2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kengyuuon/Tugas-pekanan-3-Naufal-ZM.git"
+  },
+  "keywords": [
+    "Tugas"
+  ],
+  "author": "Naufal Zainul Muttaqin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kengyuuon/Tugas-pekanan-3-Naufal-ZM/issues"
+  },
+  "homepage": "https://github.com/Kengyuuon/Tugas-pekanan-3-Naufal-ZM#readme"
+}
